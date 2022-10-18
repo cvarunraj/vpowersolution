@@ -1,0 +1,2 @@
+# vpowersolution
+static site
